@@ -1,0 +1,2 @@
+A:\game_dev\Endless Runner\Endless Runner\obj\Debug\Unity.Timeline.Editor.csprojAssemblyReference.cache
+A:\game_dev\Endless Runner\Endless Runner\obj\Debug\Unity.Timeline.Editor.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+A:\game_dev\Endless Runner\Endless Runner\obj\Debug\Unity.TextMeshPro.Editor.csprojAssemblyReference.cache
+A:\game_dev\Endless Runner\Endless Runner\obj\Debug\Unity.TextMeshPro.Editor.csproj.CoreCompileInputs.cache

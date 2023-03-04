@@ -1,0 +1,2 @@
+A:\game_dev\Endless Runner\Endless Runner\obj\Debug\Cinemachine.csprojAssemblyReference.cache
+A:\game_dev\Endless Runner\Endless Runner\obj\Debug\Cinemachine.csproj.CoreCompileInputs.cache
