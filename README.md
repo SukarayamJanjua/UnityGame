@@ -1,5 +1,5 @@
-# UnityGame
-Game made in C# and unity.
+# Robo-N-Run
+An endless runner game made in C# programming and unity.
 For downloading and playing on your Android head to -> [https://github.com/SukarayamJanjua/EndlessRunnerGame]
 
 ## Some Images
